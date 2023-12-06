@@ -1,0 +1,63 @@
+
+body { background-color:#B22222;
+    position: relative;
+  left: 40px;
+    top: 40px;
+    font-size: 25px;
+    font-family: monospace;
+    font-variant: small-caps;
+    font-weight:200;
+        width: 1100px
+   }
+
+h4 { position: relative;
+  top: -10px;
+   font-size: 25px;
+   color: #FF6961;
+    font-family: monospace;
+    font-variant: small-caps;
+    font-weight: 200;
+    letter-spacing: 0.1em;
+        width: 1100px
+}
+    
+
+
+h3 {
+    color: #FF6961;
+    width: 1100px
+}
+
+a {
+     color: #FF6961;
+
+}
+    
+h2 {
+    color: #FF6961;
+    font-family: Bookman, URW Bookman L, serif;
+    font-size: 15px
+        
+}
+
+
+h1 {
+    position: relative;
+  top: -10px;
+   font-size: 25px;
+   color: #FF6961;
+    font-family: monospace;
+    font-variant: small-caps;
+    font-weight: 200;
+    letter-spacing: 0.1em;
+        width: 1100px
+}
+
+button {
+    background-color: #FF6961;
+    padding: 60px 50px;
+    font-family: monospace;
+    border: 0px;
+    border-radius: 80px;
+    color: #B22222
+}
